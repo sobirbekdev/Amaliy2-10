@@ -1,0 +1,107 @@
+body{
+    background-color: aqua;
+}
+.header__input__box{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 7px;
+    align-items: flex-start;
+    
+}
+.header__box{
+    background-color: chartreuse;
+    border: solid 2px #fff;
+    display:inline-block;
+    padding: 12px 70px 12px 20px;
+    border-radius: 5px;
+    width: 610px;
+}
+input{
+    margin-left: 120px ;
+    border: none;
+    background-color: #fff;
+    padding: 10px 190px 10px 10px;
+    border-radius: 3px;
+    text-align: start;
+
+}
+.headder__input{
+    margin-left: 120px ;
+    border: none;
+    background-color: #fff;
+    padding: 90px 100px;
+    border-radius: 3px;
+}
+.headder__input2{
+    margin-left: 110px ;
+}
+
+
+
+.card__details{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    background-color: chartreuse;
+    border: solid 2px #fff;
+    border-radius: 5px;
+    width: 700px;
+    row-gap: 7px;
+    nav{
+        display: flex;
+        align-items: flex-start;  
+    }
+    
+h3{
+    margin-left: 44px;
+}
+    ul{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+   
+}
+.card__btn{
+    padding: 0px 10px;
+    border: 2px solid #004;
+    border-radius: 4px;
+    background-color: #fff;
+    color: blue;
+    text-shadow: blue;
+    font-family: 'Franklin Gothic Medium', 
+    'Arial Narrow', Arial, sans-serif;
+
+}
+.card__input{
+margin-left: 0;
+padding: 15px;
+}
+.card__Mastercard{
+    display: flex;
+    align-items: center;
+    padding: 4px 12px 4px 0px;
+    border: 2px solid #004;
+    border-radius: 4px;
+    background-color: #fff;
+    color: blue;
+    text-shadow: blue;
+    font-family: 'Franklin Gothic Medium', 
+    'Arial Narrow', Arial, sans-serif;
+.butto_card1{
+    margin-left: 10px;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: brown;
+    border: none;
+}
+.butto_card2{
+    border: none;
+    border-radius: 50%;
+    padding: 10px;
+    margin-left: -10px;
+    background-color: chocolate;
+}
+   
+}
